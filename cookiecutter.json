@@ -1,0 +1,10 @@
+{
+    "full_name": "Brant Faircloth",
+    "github_username": "brantfaircloth",
+    "project_name": "Protocols Boilerplate",
+    "repo_name": "cookiecutter-protocols",
+    "project_short_description": "cookiecutter-protocols contains all the boilerplate you need to create a protocol package.",
+    "release_date": "2014-01-01",
+    "year": "2014",
+    "version": "0.1.0"
+}
