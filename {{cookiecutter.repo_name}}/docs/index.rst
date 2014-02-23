@@ -4,7 +4,7 @@
 .. |date| date:: %d %B %Y %H:%M %Z (%z)
 
 faircloth-lab_ {{ cookiecutter.project_name }}
-================================
+==============================================
 
 Release v\ |version|. (:ref:`Changelog`)
 
@@ -27,7 +27,6 @@ Protocol
 
    materials
    preparation
-   testing
 
 Protocol info
 ==============
